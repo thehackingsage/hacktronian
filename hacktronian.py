@@ -1778,7 +1778,7 @@ def wpminiscanner():
 
 if __name__ == "__main__":
     try:
-        hacktronian()
+        menu()
     except KeyboardInterrupt:
         print(" Finishing up...\r"),
         time.sleep(0.25)
