@@ -91,7 +91,7 @@
 - POET
 - Weeman
 
-# Installation in Linux :
+## Installation in Linux :
 
 Open Terminal and Type : ```git clone https://github.com/thehackingsage/hacktronian.git```
 
@@ -109,7 +109,7 @@ Then Type : ```cd hacktronian && python mobile.py```
 
 Video Tutorial : Coming Soon
 
-# License :
+## License :
 
 [MIT Licence](https://github.com/thehackingsage/hacktronian/blob/master/LICENSE)
 
