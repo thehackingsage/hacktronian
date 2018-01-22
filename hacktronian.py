@@ -101,11 +101,9 @@ hacktronianlogo = """\033[0m
 |__|__||__|__|\____||__|\_| |__|  |__|\_|\___/ |__|__||____||__|__||__|__|
                                                                           
 \033[91m"""
-
-
 def menu():
     print (hacktronianlogo + """\033[1m
-                     }-----{+} https://github.com/thehackingsage {+}-----{
+https://github.com/thehackingsage/hacktronian
 \033[0m
    {1}--Information Gathering
    {2}--Password Attacks
