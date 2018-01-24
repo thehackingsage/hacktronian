@@ -862,7 +862,9 @@ def fluxion():
     print("fluxion is a wifi key cracker using evil twin attack..you need a wireless adoptor for this tool.")
     choice = raw_input("Continue ? Y / N : ")
     if choice in yes:
-        os.system("wget https://github.com/thehackingsage/Fluxion && cd Fluxion && cd install && sudo bash ./install.sh")
+        os.system("git clone https://github.com/thehackingsage/Fluxion.git") 
+	os.system("cd Fluxion && cd install && sudo chmod +x install.sh && sudo ./install.sh")
+	os.system("cd .. && sudo chmod +x fluxion.sh && sudo ./fluxion.sh")
     elif choice in no:
 	clearScr()
 	wire()
