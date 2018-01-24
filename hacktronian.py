@@ -859,10 +859,10 @@ def bluepot():
         menu()
 	
 def fluxion():
-    print("fluxion is a wifi key cracker using evil twin attack..you need to have a wireless adoptor for this.")
+    print("fluxion is a wifi key cracker using evil twin attack..you need a wireless adoptor for this tool.")
     choice4 = raw_input("Continue ? Y / N : ")
     if choice in yes:
-        os.system("git clone https://github.com/thehackingsage/Fluxion && cd Fluxion && cd install && sudo bash ./install.sh")
+        os.system("wget https://github.com/thehackingsage/Fluxion && cd Fluxion && cd install && sudo bash ./install.sh")
     else:
         menu()
 	
