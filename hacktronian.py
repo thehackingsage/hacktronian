@@ -874,7 +874,7 @@ def wire():
     print("   {1}--reaver ")
     print("   {2}--pixiewps")
     print("   {3}--Bluetooth Honeypot GUI Framework")
-	print("   {4}--Fluxion")
+    print("   {4}--Fluxion\n")
     print("   {99}-Back To The Main Menu \n\n")
     choice4 = raw_input("hacktronian~# ")
     if choice4 == "1":
