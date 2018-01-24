@@ -882,8 +882,8 @@ def wire():
         pixiewps()
     if choice4 == "3":
         bluepot()
-	if choice4 == "4":
-        fluxion()
+    if choice4 == "4":
+	fluxion()
     elif choice4 == "99":
         menu()
     elif choice4 == "":
