@@ -855,7 +855,7 @@ def passwd():
 
 def fluxion():
     print("fluxion is a wifi key cracker using evil twin attack..you need to have a wireless adoptor for this.")
-    choice = raw_input("Continue ? Y / N : ")
+    choice4 = raw_input("Continue ? Y / N : ")
     if choice in yes:
         os.system("git clone https://github.com/thehackingsage/Fluxion && cd Fluxion && cd install && ./install.sh")
     else:
@@ -874,7 +874,7 @@ def wire():
     print("   {1}--reaver ")
     print("   {2}--pixiewps")
     print("   {3}--Bluetooth Honeypot GUI Framework")
-	print("   {4}--Fluxion \n")
+	print("   {4}--Fluxion")
     print("   {99}-Back To The Main Menu \n\n")
     choice4 = raw_input("hacktronian~# ")
     if choice4 == "1":
@@ -886,6 +886,7 @@ def wire():
     if choice4 == "3":
         bluepot()
 	if choice4 == "4":
+		clearScr()
         fluxion()
     elif choice4 == "99":
         menu()
