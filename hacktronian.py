@@ -92,10 +92,9 @@ def logo():
 
 
 hacktronianlogo = """\033[0m
-   __ __         __   __                _         
-  / // /__ _____/ /__/ /________  ___  (_)__ ____ 
- / _  / _ `/ __/  '_/ __/ __/ _ \/ _ \/ / _ `/ _ \
-/_//_/\_,_/\__/_/\_\\__/_/  \___/_//_/_/\_,_/_//_/
+         __   ___ __  __               
+|__| /\ /  |_/ | |__)/  \|\ || /\ |\ | 
+|  |/--\\__| \ | | \ \__/| \||/--\| \| 
                                                    
 \033[91m"""
 def menu():
@@ -854,6 +853,14 @@ def passwd():
         menu()
 
 
+def fluxion():
+    print("fluxion is a wifi key cracker using evil twin attack..you need to have a wireless adoptor for this.")
+    choice = raw_input("Continue ? Y / N : ")
+    if choice in yes:
+        os.system("git clone https://github.com/thehackingsage/Fluxion && cd Fluxion && cd install && ./install.sh")
+    else:
+        menu()
+		
 def bluepot():
     print("you need to have at least 1 bluetooh receiver (if you have many it will work wiht those, too). You must install / libbluetooth-dev on Ubuntu / bluez-libs-devel on Fedora/bluez-devel on openSUSE ")
     choice = raw_input("Continue ? Y / N : ")
@@ -862,12 +869,12 @@ def bluepot():
     else:
         menu()
 
-
 def wire():
     print(hacktronianlogo)
     print("   {1}--reaver ")
     print("   {2}--pixiewps")
-    print("   {3}--Bluetooth Honeypot GUI Framework \n")
+    print("   {3}--Bluetooth Honeypot GUI Framework")
+	print("   {4}--Fluxion \n")
     print("   {99}-Back To The Main Menu \n\n")
     choice4 = raw_input("hacktronian~# ")
     if choice4 == "1":
@@ -878,6 +885,8 @@ def wire():
         pixiewps()
     if choice4 == "3":
         bluepot()
+	if choice4 == "4":
+        fluxion()
     elif choice4 == "99":
         menu()
     elif choice4 == "":
