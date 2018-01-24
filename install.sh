@@ -1,12 +1,13 @@
 #!/bin/bash
 clear
 echo "
-   __ __         __   __                _         
-  / // /__ _____/ /__/ /________  ___  (_)__ ____ 
- / _  / _ `/ __/  '_/ __/ __/ _ \/ _ \/ / _ `/ _ \
-/_//_/\_,_/\__/_/\_\\__/_/  \___/_//_/_/\_,_/_//_/
-                                                  
-~ Tools for Hacking by Mr. SAGE
+ |_|  _.  _ | _|_ ._ _  ._  o  _. ._  
+ | | (_| (_ |< |_ | (_) | | | (_| | |                                                 
+ 
+ ~ Tools for Hacking by Mr. SAGE
+ ~ Twitter.com/thehackingsage
+ ~ Instagram.com/thehackingsage
+ ~ Github.com/thehackingsage
 ";
 
 if [ "$PREFIX" = "/data/data/com.termux/files/usr" ]; then
