@@ -105,7 +105,7 @@ Video Tutorial : Coming Soon
 
 After That Open Termux and Type : ```git clone https://github.com/thehackingsage/hacktronian.git```
 
-Then Type : ```cd hacktronian && python mobile.py```
+Then Type : ```cd hacktronian && python hacktronian.py```
 
 Video Tutorial : Coming Soon
 
