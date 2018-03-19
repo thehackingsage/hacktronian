@@ -17,11 +17,11 @@ echo " | |__ | | /  \ | /     | | / / _       _____) ) |   | | |   | |  _    /  
 echo " |  __)| |/ /\ \| |     | |< < | |     (_____ (| |   | | |   | | | |  / /\ \| |   | | "
 echo " | |   | | |__| | \_____| | \ \| |_____      | | |___| | |   | |_| |_| |__| | |   | | "
 echo " |_|   |_|______|\______)_|  \_)\______)     |_|\_____/|_|   |_(_____)______|_|   |_| "
-echo -e "${RED}                                           ~ Tools for Hacking by Mr. SAGE ${NC}"
+echo -e "${RED}                                                      ~ Tools for Hacking by Mr. SAGE ${NC}"
 echo ""
 echo -e "${YELLOW} Twitter.com/thehackingsage | Instagram.com/thehackingsage | Github.com/thehackingsage ${NC} "
 echo ""
-echo "---------------------------------------------------------------------------------"
+echo "-----------------------------------------------------------------------------------------"
 echo ""
 echo -e "${CYAN}[>] Press ENTER to Install, CTRL+C to Abort.${NC}"
 read INPUT
