@@ -1,13 +1,15 @@
 #!/bin/bash
 clear
 echo "
- |_|  _.  _ | _|_ ._ _  ._  o  _. ._  
- | | (_| (_ |< |_ | (_) | | | (_| | |                                                 
- 
- ~ Tools for Hacking by Mr. SAGE
- ~ Twitter.com/thehackingsage
- ~ Instagram.com/thehackingsage
- ~ Github.com/thehackingsage
+          _   _   ___  _____  _   _____________ _____ _   _ _____  ___   _   _ 
+         | | | | / _ \/  __ \| | / /_   _| ___ \  _  | \ | |_   _|/ _ \ | \ | |
+         | |_| |/ /_\ \ /  \/| |/ /  | | | |_/ / | | |  \| | | | / /_\ \|  \| |
+         |  _  ||  _  | |    |    \  | | |    /| | | | . ` | | | |  _  || . ` |
+         | | | || | | | \__/\| |\  \ | | | |\ \\ \_/ / |\  |_| |_| | | || |\  |
+         \_| |_/\_| |_/\____/\_| \_/ \_/ \_| \_|\___/\_| \_/\___/\_| |_/\_| \_/
+                                                                      
+                                                ~ Tools for Hacking by Mr. SAGE
+Twitter.com/thehackingsage | Instagram.com/thehackingsage | Github.com/thehackingsage
 ";
 
 if [ "$PREFIX" = "/data/data/com.termux/files/usr" ]; then
