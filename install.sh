@@ -21,7 +21,7 @@ echo -e "${RED}                                                      ~ Tools for
 echo ""
 echo -e "${YELLOW} Twitter.com/thehackingsage | Instagram.com/thehackingsage | Github.com/thehackingsage ${NC} "
 echo ""
-echo "-----------------------------------------------------------------------------------------"
+echo "---------------------------------------------------------------------------------------"
 echo ""
 echo -e "${CYAN}[>] Press ENTER to Install, CTRL+C to Abort.${NC}"
 read INPUT
