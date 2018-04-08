@@ -101,8 +101,7 @@ hacktronianlogo = """\033[0m
 \033[91m"""
 def menu():
     print (hacktronianlogo + """\033[1m
- [!] This Tool Must Run As ROOT [!]
- https://github.com/thehackingsage/hacktronian
+ [!] This Tool Must Run As ROOT [!] https://github.com/thehackingsage/hacktronian
 \033[0m
    {1}--Information Gathering
    {2}--Password Attacks
