@@ -23,6 +23,7 @@ echo -e "${YELLOW} Twitter.com/thehackingsage | Instagram.com/thehackingsage | G
 echo ""
 echo "---------------------------------------------------------------------------------------"
 echo ""
+echo -e "${RED}[!] This Tool Must Run As ROOT [!]${NC}"
 echo -e "${CYAN}[>] Press ENTER to Install Hacktronian, CTRL+C to Abort.${NC}"
 read INPUT
 echo ""
