@@ -38,6 +38,7 @@
 
 - reaver
 - pixiewps
+- Fluxion
 
 ### Exploitation Tools:
 
