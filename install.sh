@@ -23,7 +23,7 @@ echo -e "${YELLOW} Twitter.com/thehackingsage | Instagram.com/thehackingsage | G
 echo ""
 echo "---------------------------------------------------------------------------------------"
 echo ""
-echo -e "${CYAN}[>] Press ENTER to Install, CTRL+C to Abort.${NC}"
+echo -e "${CYAN}[>] Press ENTER to Install Hacktronian, CTRL+C to Abort.${NC}"
 read INPUT
 echo ""
 
@@ -38,7 +38,7 @@ fi
 
 echo "[✔] Checking directories...";
 if [ -d "$INSTALL_DIR" ]; then
-    echo "[◉] A directory hacktronian was found! Do you want to replace it? [Y/n]:" ;
+    echo "[!] A Directory hacktronian Was Found.. Do You Want To Replace It ? [y/n]:" ;
     read mama
     if [ "$mama" = "y" ]; then
         rm -R "$INSTALL_DIR"
@@ -60,13 +60,13 @@ rm hacktronian;
 if [ -d "$INSTALL_DIR" ] ;
 then
     echo "";
-    echo "[✔] Tool istalled with success![✔]";
+    echo "[✔] Successfuly Installed !!! [✔]";
     echo "";
-    echo "[✔]====================================================================[✔]";
-    echo "[✔] ✔✔✔  All is done!! You can execute tool by typing hacktronian !   ✔✔✔ [✔]";
-    echo "[✔]====================================================================[✔]";
+    echo "[✔]========================================================================[✔]";
+    echo "[✔] ✔✔✔ All Is Done!! you can execute tool by typing hacktronian !! ✔✔✔ [✔]";
+    echo "[✔]========================================================================[✔]";
     echo "";
 else
-    echo "[✘] Installation failed![✘] ";
+    echo "[✘] Installation Failed !!! [✘]";
     exit
 fi
