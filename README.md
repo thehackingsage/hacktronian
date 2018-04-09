@@ -1,5 +1,3 @@
-# Hacktronian Hacking Tools for Linux & Android
-
 <p align="center"><img src="https://github.com/thehackingsage/hacktonian/blob/master/logo.png?raw=true" /></p>
 
 <p align="center">***Pentesing Tools That All Hacker Needs.***</p>
