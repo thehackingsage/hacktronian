@@ -92,21 +92,37 @@
 
 ## Installation in Linux :
 
-Open Terminal and Type : ```git clone https://github.com/thehackingsage/hacktronian.git```
+This Tool Must Run As ROOT !!!
 
-After Downloading The File Type : ```cd hacktronian && python hacktronian.py```
+```git clone https://github.com/thehackingsage/hacktronian.git```
 
-Video Tutorial : Coming Soon
+```cd hacktronian```
+
+```chmod +x install.sh```
+
+```./install.sh```
+
+That's it.. you can execute tool by typing **hacktronian**
 
 ## Installation in Android :
 
-1st Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
+Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
-After That Open Termux and Type : ```git clone https://github.com/thehackingsage/hacktronian.git```
+```pkg install git```
 
-Then Type : ```cd hacktronian && python hacktronian.py```
+```pkg install python```
 
-Video Tutorial : Coming Soon
+```git clone https://github.com/thehackingsage/hacktronian.git```
+
+```cd hacktronian```
+
+```chmod +x hacktronian.py```
+
+```python2 hacktronian.py```
+
+## Video Tutorial : 
+
+YouTube : 
 
 ## License :
 
