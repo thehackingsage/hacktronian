@@ -122,7 +122,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ## Video Tutorial : 
 
-YouTube : 
+YouTube : https://www.youtube.com/watch?v=1LJlyQAQby4
 
 ## License :
 
@@ -135,4 +135,3 @@ That's It... If You Like This Repo. Please Share This With Your Friends..
 ***Thankyou.***
 ***Keep Visiting..***
 ***Enjoy.!!! :)***
-
