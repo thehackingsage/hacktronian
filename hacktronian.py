@@ -853,7 +853,7 @@ def passwd():
         menu()
 		
 def bluepot():
-    print("you need to have at least 1 bluetooh receiver (if you have many it will work wiht those, too). You must install / libbluetooth-dev on Ubuntu / bluez-libs-devel on Fedora/bluez-devel on openSUSE ")
+    print("you need to have at least 1 bluetooh receiver (if you have many it will work with those, too). You must install / libbluetooth-dev on Ubuntu / bluez-libs-devel on Fedora/bluez-devel on openSUSE ")
     choice = raw_input("Continue ? Y / N : ")
     if choice in yes:
         os.system("wget https://github.com/andrewmichaelsmith/bluepot/raw/master/bin/bluepot-0.1.tar.gz && tar xfz bluepot-0.1.tar.gz && sudo java -jar bluepot/BluePot-0.1.jar")
@@ -861,7 +861,7 @@ def bluepot():
         menu()
 	
 def fluxion():
-    print("fluxion is a wifi key cracker using evil twin attack..you need a wireless adoptor for this tool.")
+    print("fluxion is a wifi key cracker using evil twin attack..you need a wireless adapter for this tool.")
     choice = raw_input("Continue ? Y / N : ")
     if choice in yes:
         os.system("git clone https://github.com/thehackingsage/Fluxion.git") 
