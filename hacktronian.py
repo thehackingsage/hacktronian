@@ -772,7 +772,7 @@ def info():
     print("  {99}-Back To Main Menu \n\n")
     choice2 = raw_input("hacktronian~# ")
     if choice2 == "1":
-        os.system('clear')
+        clearScr()
         nmap()
     if choice2 == "2":
         clearScr()
