@@ -170,12 +170,19 @@ def postexp():
     choice11 = raw_input("hacktronian~# ")
     os.system('clear')
     if choice11 == "1":
+        clearScr()
         sitechecker()
     if choice11 == "2":
+        clearScr()
         poet()
     if choice11 == "3":
+        clearScr()
         weeman()
     elif choice11 == "99":
+        menu()
+    elif choice == "":
+        menu()
+    else:
         menu()
 
 
@@ -765,7 +772,7 @@ def info():
     print("  {99}-Back To Main Menu \n\n")
     choice2 = raw_input("hacktronian~# ")
     if choice2 == "1":
-        os.system('clear')
+        clearScr()
         nmap()
     if choice2 == "2":
         clearScr()
@@ -888,10 +895,13 @@ def wire():
         clearScr()
         pixiewps()
     if choice4 == "3":
+        clearScr()
         bluepot()
     if choice4 == "4":
+        clearScr()
 	fluxion()
     elif choice4 == "99":
+        clearScr()
         menu()
     elif choice4 == "":
         menu()
@@ -916,13 +926,13 @@ def exp():
         clearScr()
         sqlmap()
     if choice5 == "1":
-        os.system('clear')
+        clearScr()
         atscan()
     if choice5 == "3":
         clearScr()
         shellnoob()
     if choice5 == "4":
-        os.system("clear")
+        clearScr()
         commix()
     if choice5 == "5":
         clearScr()
@@ -934,10 +944,13 @@ def exp():
         clearScr()
         bsqlbf()
     if choice5 == "8":
+        clearScr()
         androidhash()
     if choice5 == "9":
+        clearScr()
         cmsfew()
     elif choice5 == "99":
+        clearScr()
         menu()
     elif choice5 == "":
         menu()
