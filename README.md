@@ -92,7 +92,7 @@
 
 ## Installation in Linux :
 
-This Tool Must Run As ROOT !!!
+This tool must run as ROOT!!!
 
 ```git clone https://github.com/thehackingsage/hacktronian.git```
 
@@ -102,7 +102,7 @@ This Tool Must Run As ROOT !!!
 
 ```./install.sh```
 
-That's it.. you can execute tool by typing **hacktronian**
+That's it... you can execute the tool by typing **hacktronian**
 
 ## Installation in Android :
 
@@ -128,10 +128,10 @@ YouTube : https://www.youtube.com/watch?v=1LJlyQAQby4
 
 [MIT Licence](https://github.com/thehackingsage/hacktronian/blob/master/LICENSE)
 
-That's It... If You Like This Repo. Please Share This With Your Friends..
+That's it... If you like this repo, please share this with your friends...
 
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE My [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) Channel..!!!
+& don't forget to follow me at [Twitter](https://www.twitter.com/thehackingsage), [Instagram](https://www.instagram.com/thehackingsage), [Github](https://www.github.com/thehackingsage) & SUBSCRIBE  to my [YouTube](https://www.youtube.com/channel/UCYK1n9A4TUq1CvGc6F3DzoA) channel..!!!
 
-***Thankyou.***
-***Keep Visiting..***
-***Enjoy.!!! :)***
+***Thank you.***
+***Keep Visiting...***
+***Enjoy!!! :)***
