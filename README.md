@@ -110,7 +110,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```pkg install git```
 
-```pkg install python```
+```pkg install python2```
 
 ```git clone https://github.com/thehackingsage/hacktronian.git```
 
