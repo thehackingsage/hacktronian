@@ -53,7 +53,7 @@ echo "[✔] Installing ...";
 echo "";
 git clone https://github.com/thehackingsage/hacktronian.git "$INSTALL_DIR";
 echo "#!/bin/bash
-python $INSTALL_DIR/hacktronian.py" '${1+"$@"}' > hacktronian;
+python2 $INSTALL_DIR/hacktronian.py" '${1+"$@"}' > hacktronian;
 chmod +x hacktronian;
 sudo cp hacktronian /usr/bin/;
 rm hacktronian;
